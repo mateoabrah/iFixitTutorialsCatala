@@ -2,6 +2,9 @@
 
 Este es un proyecto basado en *Laravel* que permite gestionar y traducir tutoriales de reparación de dispositivos electrónicos en catalán, integrando la API de *iFixit*.
 
+Aquí puedes ver una demostración del mismo:
+[Ver el video](./videos/iFixitTutorialsCatala.mp4)
+
 ## Requisitos
 
 Antes de comenzar, asegúrate de tener instalados los siguientes requisitos:
